@@ -1,0 +1,101 @@
+@import "resets.scss";
+@import "layout.scss";
+@import "_bourbon.scss";
+
+.container {
+    max-width: 1280px;
+    width: 92%;
+    margin: 0px auto;
+    position: relative;
+}
+
+
+/*!////////////////////////////////////////////////
+// Custom Shorthand
+/////////////////////////////////////////////////*/
+$font-header: 'Patua One', cursive;
+$font-body:'Roboto', sans-serif;
+
+$color-base:#2b2b2b;
+$color-blue:#5f99aa;
+$color-green:#99cc33;
+$color-grey:#c4c1ba;
+$color-light-grey:#e3e0da;
+
+$section-margin: 80px;
+$section-padding: 80px;
+
+img {
+	max-width: 100%;
+	height: auto;
+}
+
+a {
+	text-decoration: none;
+	color: inherit;
+	@include transition(all 0.3s ease-in-out);
+}
+
+/*!////////////////////////////////////////////////
+// MODULES
+/////////////////////////////////////////////////*/
+.test{
+	min-height: 100px;
+	background-color: gray;
+}
+
+.header {
+	background: url('../images/wood-bg.jpg') no-repeat;
+	background-size: cover;
+}
+
+.logo {
+	text-align: center;
+	position: relative;
+
+	img {
+		width: 30%;
+		margin: $section-margin 0;
+	}
+}
+
+
+nav {
+	padding-top: 20px;
+	a {
+		color: $color-light-grey;
+		font-family: $font-header;
+		font-size: em(24);
+		text-transform: uppercase;
+		margin-right: 20px;
+		position: relative;
+		border-bottom: 2px solid transparent;
+	}
+
+	a:hover {
+		color: $color-blue;
+		border-bottom: 2px solid $color-blue;
+	}
+
+	span {
+		float: right;
+	}
+
+}
+
+	.brands {
+		text-align: center;
+
+		.grid-1 {
+			text-align: center;
+		}
+
+	}
+
+/*!////////////////////////////////////////////////
+// STATES
+/////////////////////////////////////////////////*/
+
+
+
+@import "helpers.scss";
