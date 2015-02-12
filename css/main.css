@@ -344,6 +344,27 @@ a {
   -moz-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out; }
 
+.center {
+  text-align: center; }
+
+.page-content {
+  margin: 40px 0 80px; }
+
+h1 {
+  font-family: "Patua One", cursive;
+  color: white;
+  padding: 10px 40px;
+  background-color: #5f99aa;
+  display: inline-block;
+  font-weight: normal;
+  text-transform: uppercase;
+  margin-bottom: 20px; }
+
+p {
+  font-family: "Roboto", sans-serif;
+  font-size: 1.125em;
+  margin-bottom: 20px; }
+
 /*!////////////////////////////////////////////////
 // MODULES
 /////////////////////////////////////////////////*/
@@ -360,7 +381,7 @@ a {
   position: relative; }
   .logo img {
     width: 30%;
-    margin: 80px 0; }
+    margin: 120px 0; }
 
 nav {
   padding-top: 20px; }
@@ -382,6 +403,48 @@ nav {
   text-align: center; }
   .brands .grid-1 {
     text-align: center; }
+
+.home_page-content p {
+  width: 50%;
+  margin: 20px auto; }
+  .home_page-content p span {
+    font-family: "Patua One", cursive;
+    color: #5f99aa;
+    font-size: 1.5em;
+    font-weight: normal; }
+
+.home_product-grid {
+  margin: 40px auto;
+  height: 600px;
+  width: 100%;
+  overflow: hidden; }
+  @media screen and (max-width: 1280px) {
+    .home_product-grid {
+      height: 500px; } }
+  .home_product-grid > div {
+    display: inline-block;
+    vertical-align: top; }
+  .home_product-grid .box-large {
+    height: 100%;
+    width: 24.5%;
+    background-color: #c4c1ba; }
+  .home_product-grid .box-container {
+    height: 100%;
+    width: 24.5%; }
+  .home_product-grid .box-medium {
+    height: 70%;
+    width: 100%;
+    background-color: #c4c1ba;
+    display: block; }
+  .home_product-grid .box-small {
+    height: 30%;
+    width: 100%;
+    background-color: #c4c1ba;
+    display: block; }
+  .home_product-grid .small-top {
+    margin-bottom: 5px; }
+  .home_product-grid .small-bottom {
+    margin-top: 5px; }
 
 /*!////////////////////////////////////////////////
 // STATES

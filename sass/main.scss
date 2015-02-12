@@ -36,6 +36,31 @@ a {
 	@include transition(all 0.3s ease-in-out);
 }
 
+.center {
+	text-align: center;
+}
+
+.page-content {
+	margin: 40px 0 $section-margin;
+}
+
+h1 {
+	font-family: $font-header;
+	color: white;
+	padding: 10px 40px;
+	background-color: $color-blue;
+	display: inline-block;
+	font-weight: normal;
+	text-transform: uppercase;
+	margin-bottom: 20px;
+}
+
+p {
+	font-family: $font-body;
+	font-size: em(18);
+	margin-bottom: 20px;
+}
+
 /*!////////////////////////////////////////////////
 // MODULES
 /////////////////////////////////////////////////*/
@@ -55,7 +80,7 @@ a {
 
 	img {
 		width: 30%;
-		margin: $section-margin 0;
+		margin: 120px 0;
 	}
 }
 
@@ -91,6 +116,71 @@ nav {
 		}
 
 	}
+
+.home_page-content {
+	p {
+		width: 50%;
+		margin: 20px auto;
+
+		span {
+			font-family: $font-header;
+			color: $color-blue;
+			font-size: em(24);
+			font-weight: normal;
+		}
+	}
+}
+
+.home_product-grid {
+	margin: 40px auto;
+	height: 600px;
+	width: 100%;
+	overflow: hidden;
+
+	@media screen and (max-width: 1280px) {
+		height: 500px;
+	}
+
+	> div {
+		display: inline-block;
+		vertical-align: top;
+	}
+
+	.box-large {
+		height: 100%;
+		width: 24.5%;
+		background-color: $color-grey;
+	}
+
+	.box-container {
+		height: 100%;
+		width: 24.5%;
+	}
+
+	.box-medium {
+		height: 70%;
+		width: 100%;
+		background-color:$color-grey;
+		display: block;
+	}
+
+	.box-small {
+		height: 30%;
+		width:100%;
+		background-color: $color-grey; 
+		display: block;
+	}
+
+	.small-top {
+		margin-bottom: 5px;
+	}
+
+	.small-bottom {
+		margin-top: 5px;
+	}
+}
+
+
 
 /*!////////////////////////////////////////////////
 // STATES
