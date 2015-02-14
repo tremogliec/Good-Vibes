@@ -424,10 +424,6 @@ nav {
   .home_product-grid > div {
     display: inline-block;
     vertical-align: top; }
-  .home_product-grid .box-large {
-    height: 100%;
-    width: 24.5%;
-    background-color: #c4c1ba; }
   .home_product-grid .box-container {
     height: 100%;
     width: 24.5%; }
@@ -441,10 +437,50 @@ nav {
     width: 100%;
     background-color: #c4c1ba;
     display: block; }
+  .home_product-grid .box-large {
+    height: 100%;
+    width: 24.5%;
+    background-color: #c4c1ba; }
   .home_product-grid .small-top {
     margin-bottom: 5px; }
   .home_product-grid .small-bottom {
     margin-top: 5px; }
+
+.home_banner {
+  background-color: #5f99aa;
+  text-align: center;
+  padding: 20px 0;
+  position: relative; }
+  .home_banner img {
+    width: 90px;
+    height: 70px;
+    display: block;
+    margin: 0 auto;
+    text-align: center; }
+  .home_banner .jacket {
+    width: 100px; }
+  .home_banner .cup {
+    width: 80px; }
+  .home_banner h2 {
+    color: white;
+    margin-top: 40px; }
+
+.home_gallery {
+  padding: 40px 0;
+  background: url("../images/texture.png") repeat; }
+  .home_gallery .container > div {
+    display: inline-block;
+    background-color: #c4c1ba;
+    height: 100%;
+    height: 500px; }
+  .home_gallery .container .box-large {
+    width: 24.5%;
+    margin-right: 1.51515%; }
+  .home_gallery .container .box-large:last-child {
+    margin-right: 0;
+    margin-left: 1.51515%; }
+  .home_gallery .container .box-xl {
+    width: 47.25%; }
 
 /*!////////////////////////////////////////////////
 // STATES

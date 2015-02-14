@@ -76,6 +76,35 @@
     </div>
 </div>
 
+<div class="home_banner cf">
+<div class="container">
+    <div class="grid-25">
+        <img class="t-shirt" src="images/t-shirt.svg" alt="Good Vibes T-Shirts">
+        <h2>T-Shirts</h2>
+    </div>
+    <div class="grid-25">
+        <img class="jacket" src="images/outerwear.svg" alt="Good Vibes Outerwear">
+        <h2>Outerwear</h2>
+    </div>
+    <div class="grid-25">
+        <img class="cup" src="images/souvenirs.svg" alt="Good Vibes Souvenirs">
+        <h2>Souvenirs</h2>
+    </div>
+    <div class="grid-25">
+        <img class="hat" src="images/accessories.svg" alt="Good Vibes Accessories">
+        <h2>Accessories</h2>
+    </div>
+    </div>
+</div>
+
+<div class="home_gallery cf">
+    <div class="container">
+        <div class="box-large"></div>
+        <div class="box-xl"></div>
+        <div class="box-large"></div>
+    </div>
+</div>
+
 <div>
     <div class="test grid-1"><p>Test</p></div>
     <div class="test grid-1"></div>
