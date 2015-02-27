@@ -65,6 +65,277 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/css\/set1.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/set1.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/gallery.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/gallery.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/images\/Chris-Tremoglie-draft-logo-1.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 195913,
+		"inputAbbreviatedPath": "\/images\/Chris-Tremoglie-draft-logo-1.png",
+		"outputAbbreviatedPath": "\/images\/Chris-Tremoglie-draft-logo-1.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/Chris-Tremoglie-Logo-2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 609572,
+		"inputAbbreviatedPath": "\/images\/Chris-Tremoglie-Logo-2.png",
+		"outputAbbreviatedPath": "\/images\/Chris-Tremoglie-Logo-2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/gallery\/good-vibes-clothes.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 441377,
+		"inputAbbreviatedPath": "\/images\/gallery\/good-vibes-clothes.jpg",
+		"outputAbbreviatedPath": "\/images\/gallery\/good-vibes-clothes.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/gallery\/good-vibes-store.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 484112,
+		"inputAbbreviatedPath": "\/images\/gallery\/good-vibes-store.jpg",
+		"outputAbbreviatedPath": "\/images\/gallery\/good-vibes-store.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/gallery\/good-vibes-tshirt.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 377761,
+		"inputAbbreviatedPath": "\/images\/gallery\/good-vibes-tshirt.jpg",
+		"outputAbbreviatedPath": "\/images\/gallery\/good-vibes-tshirt.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/gallery\/test1-1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 163115,
+		"inputAbbreviatedPath": "\/images\/gallery\/test1-1.jpg",
+		"outputAbbreviatedPath": "\/images\/gallery\/test1-1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/gallery\/test1-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 137231,
+		"inputAbbreviatedPath": "\/images\/gallery\/test1-2.jpg",
+		"outputAbbreviatedPath": "\/images\/gallery\/test1-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/gallery\/test1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 110360,
+		"inputAbbreviatedPath": "\/images\/gallery\/test1.jpg",
+		"outputAbbreviatedPath": "\/images\/gallery\/test1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/gallery\/test2-1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 115381,
+		"inputAbbreviatedPath": "\/images\/gallery\/test2-1.jpg",
+		"outputAbbreviatedPath": "\/images\/gallery\/test2-1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/gallery\/test2-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 127445,
+		"inputAbbreviatedPath": "\/images\/gallery\/test2-2.jpg",
+		"outputAbbreviatedPath": "\/images\/gallery\/test2-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/gallery\/test2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 244861,
+		"inputAbbreviatedPath": "\/images\/gallery\/test2.jpg",
+		"outputAbbreviatedPath": "\/images\/gallery\/test2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/gallery\/test3-1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 148875,
+		"inputAbbreviatedPath": "\/images\/gallery\/test3-1.jpg",
+		"outputAbbreviatedPath": "\/images\/gallery\/test3-1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/gallery\/test3-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 103612,
+		"inputAbbreviatedPath": "\/images\/gallery\/test3-2.jpg",
+		"outputAbbreviatedPath": "\/images\/gallery\/test3-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/gallery\/test3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 90146,
+		"inputAbbreviatedPath": "\/images\/gallery\/test3.jpg",
+		"outputAbbreviatedPath": "\/images\/gallery\/test3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/gallery\/thumbs\/good-vibes-clothes.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 145519,
+		"inputAbbreviatedPath": "\/images\/gallery\/thumbs\/good-vibes-clothes.jpg",
+		"outputAbbreviatedPath": "\/images\/gallery\/thumbs\/good-vibes-clothes.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/gallery\/thumbs\/good-vibes-store.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 245612,
+		"inputAbbreviatedPath": "\/images\/gallery\/thumbs\/good-vibes-store.jpg",
+		"outputAbbreviatedPath": "\/images\/gallery\/thumbs\/good-vibes-store.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/gallery\/thumbs\/good-vibes-tshirt.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 136285,
+		"inputAbbreviatedPath": "\/images\/gallery\/thumbs\/good-vibes-tshirt.jpg",
+		"outputAbbreviatedPath": "\/images\/gallery\/thumbs\/good-vibes-tshirt.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/home-products\/test1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 98449,
+		"inputAbbreviatedPath": "\/images\/home-products\/test1.jpg",
+		"outputAbbreviatedPath": "\/images\/home-products\/test1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/home-products\/test2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 42073,
+		"inputAbbreviatedPath": "\/images\/home-products\/test2.jpg",
+		"outputAbbreviatedPath": "\/images\/home-products\/test2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/home-products\/test3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 98522,
+		"inputAbbreviatedPath": "\/images\/home-products\/test3.jpg",
+		"outputAbbreviatedPath": "\/images\/home-products\/test3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/home-products\/test4.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 108824,
+		"inputAbbreviatedPath": "\/images\/home-products\/test4.jpg",
+		"outputAbbreviatedPath": "\/images\/home-products\/test4.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/home-products\/test5.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 152124,
+		"inputAbbreviatedPath": "\/images\/home-products\/test5.jpg",
+		"outputAbbreviatedPath": "\/images\/home-products\/test5.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/home-products\/test6.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 50617,
+		"inputAbbreviatedPath": "\/images\/home-products\/test6.jpg",
+		"outputAbbreviatedPath": "\/images\/home-products\/test6.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/logos\/good-vibes-logo.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -120,6 +391,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/products\/test1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 100827,
+		"inputAbbreviatedPath": "\/images\/products\/test1.jpg",
+		"outputAbbreviatedPath": "\/images\/products\/test1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/products\/test2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 89248,
+		"inputAbbreviatedPath": "\/images\/products\/test2.jpg",
+		"outputAbbreviatedPath": "\/images\/products\/test2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/texture.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -160,6 +453,33 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/includes\/home_banner.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/includes\/home_banner.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/includes\/nav.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/includes\/nav.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/includes\/sub-nav.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/includes\/sub-nav.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/index.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -175,6 +495,17 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/js\/main.js",
 		"outputAbbreviatedPath": "\/js\/min\/main-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/min\/main-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/min\/main-min.js",
+		"outputAbbreviatedPath": "\/js\/min\/min\/main-min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -1439,6 +1770,22 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
+	"\/sass\/hover-fix.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/sass\/hover-fix.scss",
+		"outputAbbreviatedPath": "\/css\/hover-fix.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
 	"\/sass\/layout.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
@@ -1534,6 +1881,15 @@
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
+		},
+	"\/sub-page.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/sub-page.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
 		}
 	},
 "hooks": [
